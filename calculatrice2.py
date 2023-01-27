@@ -1,9 +1,3 @@
-#Couleurs
-#Noir : #101419
-#Bleu : #273985
-#Rouge : #852729
-#Blanc : #FFF
-
 from tkinter import *
 
 expression = ""
